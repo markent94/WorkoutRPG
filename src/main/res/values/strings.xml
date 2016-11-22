@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WorkoutRPG</string>
+    <string name="nextu">Username</string>
+    <string name="nextp">Password</string>
+    <string name="conp">Confirm Password</string>
+    <string name="login">Log In</string>
+    <string name="create">Create Account</string>
+    <string name="newaccount">New user? </string>
+    <string name="signup"> <u> Sign up </u> </string>
+</resources>
